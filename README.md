@@ -6,12 +6,12 @@
 ##### NOW
 
 - ✨ Crafted last [HealhUb](https://skpandey885.github.io/HealhUb/) website;
-- 👀 I’m interested in Web Development, Artificial Intelligence, DevOps and OpenSource
+- 👀 I’m interested in Web Development, Artificial Intelligence, Blockchain and OpenSource
 - 🤝 I’m looking to collaborate on Web Dev Projects
 
 ##### BIO
 
-- 📑 I’m currently learning Python, Web Dev and basics of kubernetes
+- 📑 I’m currently learning Flutter, Web Dev and basics of Blockchain 🚀.
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **OpenSource**, **development**, **design thinking**, **Travel**
