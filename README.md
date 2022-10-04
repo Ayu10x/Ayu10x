@@ -1,4 +1,4 @@
-## Hey <img src="assets/Hi.gif" width="29px">, I'm [Ayu!](https://twitter.com/ayupattnaik19) 
+## Hey 👋, I'm [Ayu!](https://twitter.com/ayupattnaik19) 
 
 
 #### I'm a Front-end WebDeveloper and a CS Undergrad at [Siksha 'O'​ Anusandhan University](https://www.soa.ac.in/).
