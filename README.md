@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Ayu!](https://twitter.com/ayupattnaik19) 
 
 
-#### I'm a Front-end WebDeveloper and a CS Undergrad at [Siksha 'O'​ Anusandhan University](https://www.soa.ac.in/).
+#### I'm a Developer and a CS Undergrad at [Siksha 'O'​ Anusandhan University](https://www.soa.ac.in/).
 
 ##### NOW
 
