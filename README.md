@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 📑 I’m currently learning Flutter, Web Dev and basics of Blockchain 🚀.
+- 📑 I’m currently learning learning & Building with AI all the time ! 🚀.
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **OpenSource**, **development**, **design thinking**, **Travel**
