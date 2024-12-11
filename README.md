@@ -6,8 +6,8 @@
 ##### NOW
 
 - ✨ Crafted last [HealhUb](https://skpandey885.github.io/HealhUb/) website;
-- 👀 I’m interested in Web Development, Artificial Intelligence, Blockchain and OpenSource
-- 🤝 I’m looking to collaborate on Web Dev Projects
+- 👀 I’m interested in Web Development, Artificial Intelligence and OpenSource
+- 🤝 I’m looking to collaborate on Ai Dev Projects
 
 ##### BIO
 
