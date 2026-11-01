@@ -1,31 +1,22 @@
-## Hey 👋, I'm [Ayu!](https://twitter.com/ayupattnaik19) 
+## Ayush Pattnaik
 
+Backend developer: Java, Spring Boot, Node.js, REST APIs, MongoDB, Kafka.
+I build and fix backend systems, and recover and harden hacked websites.
 
-#### I'm a Developer and a CS Undergrad at [Siksha 'O'​ Anusandhan University](https://www.soa.ac.in/).
+**Open to freelance projects:** API development · backend bug fixes · integrations · deployments · migrations · website security
+→ [Portfolio](https://portfolio-website-ochre-five.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayupattnaik19) · ayp.scp@gmail.com
 
-##### NOW
+### Recent work
 
-- ✨ Crafted last [HealhUb](https://skpandey885.github.io/HealhUb/) website;
-- 👀 I’m interested in Web Development, Artificial Intelligence and OpenSource
-- 🤝 I’m looking to collaborate on Ai Dev Projects
+- **Website incident response (Sep 2026, freelance).** Traced a hacked WordPress site that in-house cleanups had failed to fix to a self-reinstalling backdoor hidden with forged file timestamps. Rebuilt it on a new AWS server and migrated 85,000+ records with nothing lost. Hardened it behind Cloudflare and added daily backups and an automated integrity scan.
+- **[Loadout](https://github.com/Ayu10x/loadout).** A catalog of AI coding skills and agents for Claude Code and Codex, each tested on real repositories and checked for unsafe instructions.
+- **[Multimodal AI Chat](https://github.com/Ayu10x/local_multimodal_ai_chat).** A local chat app that handles text, audio, images and PDFs. Published in the ODICON 2024 proceedings (IEEE).
 
-##### BIO
+### Stack
 
-- 📑 I’m currently learning learning & Building with AI all the time ! 🚀.
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **OpenSource**, **development**, **design thinking**, **Travel**
-- 📫 Reach me: [twitter.com/ayupattnaik19](https://twitter.com/ayupattnaik19)
-
-
-![](https://komarev.com/ghpvc/?username=Ayu10x&label=PROFILE+VIEWS)
-
-
-
-#Lanuages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayu10x)](https://github.com/Ayu10x/github-readme-stats)
-
-#My Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayu10x&show_icons=true&theme=radical)
+| Area | Tools |
+|---|---|
+| Backend | Java, Spring Boot, Spring Security (JWT), Node.js, Express, Kafka |
+| Data | MongoDB, MySQL, PostgreSQL |
+| Web | React, Next.js, TypeScript, WordPress |
+| Cloud & ops | AWS, Cloudflare, Linux, Docker, Git |
