@@ -1,7 +1,7 @@
 ## Ayush Pattnaik
 
 Backend developer: Java, Spring Boot, Node.js, REST APIs, MongoDB, Kafka.
-I build and fix backend systems, and recover and harden hacked websites.
+I build and fix backend systems, recover and harden hacked websites, and work AI-first: AI coding tools across planning, code, tests and review.
 
 **Open to freelance projects:** API development · backend bug fixes · integrations · deployments · migrations · website security
 → [Portfolio](https://portfolio-website-ochre-five.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ayupattnaik19) · ayp.scp@gmail.com
